@@ -7,7 +7,7 @@
 
 ## 在线预览
 
-https://geeeeeeeek.github.io/web_tool/
+https://alcardcs.github.io/web_tool/
 
 
 ## 二次开发
@@ -24,3 +24,5 @@ https://geeeeeeeek.github.io/web_tool/
 - https://web-a55.pages.dev/
 
 - https://hrzhanghuan.com
+
+- https://github.com/geeeeeeeek/web_tool
